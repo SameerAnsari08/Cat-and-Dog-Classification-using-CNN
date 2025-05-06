@@ -17,7 +17,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
 ## 📂 Dataset
 
-The dataset consists of labeled images of cats and dogs, typically sourced from Kaggle or other open datasets. Images are resized and normalized as part of the preprocessing pipeline.
+The dataset consists of labeled images of cats and dogs, typically sourced from Kaggle or other open datasets. Images are resized and normalized as part of the preprocessing pipeline. Source: https://www.kaggle.com/datasets/salader/dogs-vs-cats
 
 ## 🧠 Model Overview
 
