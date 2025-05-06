@@ -1,6 +1,6 @@
 # Cat and Dog Classification Using CNN
 
-This project implements a Convolutional Neural Network (CNN) to classify images of cats and dogs. The goal is to develop a robust image classification model that can accurately distinguish between the two classes. This type of binary classification is a fundamental task in computer vision and serves as a great introduction to deep learning techniques using CNNs.
+This project implements a Convolutional Neural Network (CNN) to classify images of cats and dogs. The goal is to develop a robust image classification model that can accurately distinguish between the two classes. This type of binary classification is a fundamental task and serves as a great introduction to deep learning techniques using CNNs.
 
 ## 📌 Project Highlights
 
